@@ -19,9 +19,8 @@ We are guided by:
 
 ## 📞 Get in Touch
 Discover more about IRJA and our groundbreaking technologies:
-- Website: [IRJA.org](https://www.irja.is)
-- Email: [info@irja.org](mailto:info@irja.is)
-- LinkedIn: [IRJA Technology Firm](https://linkedin.com/company/irja)
+- Website: [IRJA.is](https://www.irja.is)
+- Email: [info@irja.is](mailto:info@irja.is)
 
 ---
 
